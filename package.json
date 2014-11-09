@@ -1,0 +1,23 @@
+{
+  "name": "tweetPoetry",
+  "version": "0.0.0",
+  "description": "tweetPoetry ===========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imbenclifford/tweetPoetry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imbenclifford/tweetPoetry/issues"
+  },
+  "homepage": "https://github.com/imbenclifford/tweetPoetry",
+  "dependencies": {
+    "hapi": "^7.5.0",
+    "bootstrap": "^3.3.0"
+  }
+}

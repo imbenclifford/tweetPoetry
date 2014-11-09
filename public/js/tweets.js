@@ -9,7 +9,7 @@ var randInt = (Math.floor(Math.random() * (randNumMax + 1)));
 
 $( document ).ready(function() {
 	$.ajax({
-			url: "http://warwick-163705.euw1.nitrousbox.com/",
+			url: "http://mattwritespoetry.herokuapp.com/",
 			success: function(data) {
 				var Jdata = JSON.parse(data);
 				var str = '';

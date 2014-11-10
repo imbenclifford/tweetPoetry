@@ -1,0 +1,40 @@
+html {
+	background-color: #74AFAD;
+	color: #221E1D;
+	font-family: helvetica;
+}
+span {
+	font-weight: bold;
+}
+h1, h2 {
+    text-transform: uppercase;
+}
+p {
+    text-indent: 50px;
+    text-align:justify;
+    letter-spacing:3px;
+}
+div#poem {
+    width:550px;
+    position: relative;
+    display:block;
+    left:50%;
+		padding: 10px 0px 10px 50px;
+    margin-left:-300px;
+    background:#ECECEA;
+}
+div.titles {
+	text-align: center;
+	position: relative;
+}
+
+div.footer {
+	position:relative;
+	display: block;
+	text-align: center;
+}
+
+span#message {
+	text-align: center;
+	font-size: 12px;
+}
